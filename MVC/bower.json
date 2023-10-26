@@ -1,9 +1,0 @@
-{
-  "name": "MVC Store",
-  "dependencies": {
-    "foundation-sites": "^6.3.1",
-    "jquery": "~3.7",
-    "motion-ui": "^2.0.5",
-    "slick-carousel": "^1.8.1"
-  }
-}
